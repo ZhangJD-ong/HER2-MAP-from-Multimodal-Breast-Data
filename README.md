@@ -1,4 +1,4 @@
-# HER2 MAP from Multimodal Breast Data
+# HER2 MAP from Multimodal Breast Cancer Data
 ## Paper:
 Please see: Deep Learning-based HER2 Status Assessment for Predicting Neoadjuvant Therapy Response from Multimodal Breast Cancer Data
 
